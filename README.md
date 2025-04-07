@@ -11,7 +11,7 @@
     <img src="https://media.giphy.com/media/IThjAlJnD9WNO/giphy.gif" width="250">
 </p>
 
-<h2 align="center"><b>I love Creating Solutions with LLMs & Agentic AI</b></h2>
+<h2 align="center"><b>An experienced full-stack machine learning engineer, open source contributor</b></h2>
 
 I'm a Senior ML engineer specializing in NLP, GenAI and LLMOps. Passionate about using cutting edge AI to solve real-world problems.
 
